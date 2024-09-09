@@ -1,6 +1,19 @@
-# List od Restake Addresses
+# POSTHUMAN Restake
 
 https://docs.google.com/spreadsheets/d/1V__UaZkSCmlxc5PjXoKHRacxxG2SVFQyGb2Vmzov9WQ/edit?gid=0#gid=0
+
+If https://restake.app/ shows that the last restake was made a long time ago, check it by yourself
+
+Go by the link in block explorer, check the amount on restake-address, and when the last restake-transaction was made
+
+If no balance on restake-address, or the last transaction was made more than 24 hours ago, go to community chat and write about it
+
+We will fix it ASAP
+
+- English-speaking chat: https://t.me/posthumanchat
+- Russian-speaking chat: https://t.me/Crypto_Base_Chat
+
+## The list of Restake Addresses
 
 - Persistence	[persistence1n8htrjks32y59u3fxwuy6fnz868n667k8ltezs](https://www.mintscan.io/persistence/address/persistence1n8htrjks32y59u3fxwuy6fnz868n667k8ltezs)
 - Fetch.ai	[fetch1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjnx0exz](https://www.mintscan.io/fetchai/address/fetch1zwjfxr3j9gnnrhxwtt8t6qqr4pdn7cgjnx0exz)
